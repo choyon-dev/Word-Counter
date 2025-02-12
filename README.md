@@ -29,4 +29,4 @@ Contributions are welcome! Feel free to fork the repo, submit issues, or create 
 ### License  
 This project is open-source and available under the **MIT License**.  
 
-🔗 **[Live Demo](#)** | ⭐ **Star this repo if you find it useful!**
+🔗 **[Live Demo](https://choyon-dev.github.io/Word-Counter)** | ⭐ **Star this repo if you find it useful!**
